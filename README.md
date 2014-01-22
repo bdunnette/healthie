@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Creating a new Hoodie App
 
 ## Installation
@@ -149,7 +148,3 @@ Boom.
 
     $ hoodie deploy
      - jitsu deploy
-=======
-healthie
-========
->>>>>>> a0bbbec81c7f53f7ea3acbacd90f4e6cccbca832
